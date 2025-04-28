@@ -16,8 +16,7 @@ const Navbar = () => {
           <ul className="flex flex-col md:flex-row justify-between items-center gap-4 md:gap-0 text-red-600 font-semibold italic">
             <li><a href="/">Explore</a></li>
             <li><a href="/experience">Experiences</a></li>
-            <li><a href="#">Plan Your Trip</a></li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="/blogs">Blog</a></li>
             <li><a href="#">Gallery</a></li>
             <li><a href="#">Contact</a></li>
           </ul>
